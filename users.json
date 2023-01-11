@@ -1,0 +1,26 @@
+[
+  {
+    "age": 17,
+    "name": "John",
+    "surname": "Smith",
+    "username": "test",
+    "password": "hotguyxxx",
+    "email": "test@mail.com"
+  },
+  {
+    "age": 23,
+    "name": "Ivan",
+    "surname": "Petrov",
+    "username": "test1",
+    "password": "testpassword",
+    "email": "test1@mail.com"
+  },
+  {
+    "age": 22,
+    "name": "Artjom",
+    "surname": "Bekkuzhinov",
+    "username": "ya",
+    "password": "adfgsdf",
+    "email": "sdfgsdfg"
+  }
+]
