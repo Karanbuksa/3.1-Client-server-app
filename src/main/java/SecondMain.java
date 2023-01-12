@@ -11,7 +11,7 @@ public class SecondMain {
         try(Socket socket = new Socket(host,port)){
             PrintWriter printWriter = new PrintWriter(socket.getOutputStream(),true);
             BufferedReader bufferedReader = new BufferedReader(new InputStreamReader(socket.getInputStream()));
-            printWriter.println("¿Ú∏Ï");
+            printWriter.println("–ê—Ä—Ç—ë–º");
             String response = bufferedReader.readLine();
             System.out.println(response);
         } catch (IOException e) {
