@@ -22,5 +22,21 @@
     "username": "ya",
     "password": "adfgsdf",
     "email": "sdfgsdfg"
+  },
+  {
+    "age": 22,
+    "name": "Vera",
+    "surname": "Byzova",
+    "username": "mmm",
+    "password": "123456",
+    "email": "eda"
+  },
+  {
+    "age": 22,
+    "name": "Nastya",
+    "surname": "Celischeva",
+    "username": "Shiro",
+    "password": "12345678",
+    "email": "dsfasdf@byak.com"
   }
 ]
