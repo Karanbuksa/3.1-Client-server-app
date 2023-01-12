@@ -1,6 +1,4 @@
-package client;
-
-import server.User;
+package server;
 
 import java.io.*;
 import java.net.ServerSocket;
